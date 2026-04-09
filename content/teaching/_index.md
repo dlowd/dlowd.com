@@ -1,63 +1,53 @@
 ---
 title: "Teaching"
 aliases: ["teaching.html"]
-ShowToc: true
-draft: true
+ShowToc: false
 ---
 
-I regularly teach graduate and undergraduate courses in machine learning, artificial intelligence, and data structures. Course materials for recent offerings are archived through the University of Oregon.
+I regularly teach graduate and undergraduate courses in machine learning, artificial intelligence, and data structures at the University of Oregon.
 
-## Courses
+<!-- Courses are sorted by most recent offering. -->
 
-### 2018
+## CS 473/573: Probabilistic Methods for AI
 
-- Spring 2018 — [Probabilistic Methods for AI (CIS 473/573)](https://classes.cs.uoregon.edu/18S/cis473/)  
-- Winter 2018 — [Machine Learning (CIS 472/572)](https://classes.cs.uoregon.edu/18W/cis472/)
+Spring 2025, Spring 2013--2018, Fall 2010, Winter 2010. (Also offered as CS 610pm in Spring 2012.)
 
-### 2017
+## CS 670: Data Science
 
-- Fall 2017 — [Probability and Statistics in Computer Science (CIS 399)](https://classes.cs.uoregon.edu/17F/cis399prob/)  
-- Spring 2017 — [Probabilistic Methods for AI (CIS 473/573)](https://classes.cs.uoregon.edu/17S/cis473/)  
-- Winter 2017 — [Machine Learning (CIS 472/572)](https://classes.cs.uoregon.edu/17W/cis472/)
+Winter 2025, Spring 2024, Winter 2023, Spring 2022, Spring 2021.
 
-### 2016
+## CS 313: Intermediate Data Structures
 
-- Fall 2016 — [Artificial Intelligence (CIS 471/571)](https://classes.cs.uoregon.edu/16F/cis471/)  
-- Spring 2016 — [Probabilistic Methods for AI (CIS 410/510pm)](https://classes.cs.uoregon.edu/16S/cis410pm/)  
-- Winter 2016 — [Machine Learning (CIS 472/572)](https://classes.cs.uoregon.edu/16W/cis472/)
+Fall 2019--2024, Fall 2015, Winter 2014.
 
-### 2015
+## CS 610: Welcome to Grad School
 
-- Fall 2015 — [Intermediate Data Structures (CIS 313)](https://classes.cs.uoregon.edu/15F/cis313/)  
-- Spring 2015 — [Probabilistic Methods for AI (CIS 410/510pm)](https://classes.cs.uoregon.edu/15S/cis410pm/)  
-- Winter 2015 — [Machine Learning (CIS 472/572)](https://classes.cs.uoregon.edu/15W/cis472/)
+Fall 2024, Fall 2021--2022. (2-credit seminar.)
 
-### 2014
+I helped create this course to give first-year graduate students practical guidance on navigating grad school -- covering topics like research skills, professional development, and department norms, rather than the typical read-and-present seminar format.
 
-- Spring 2014 — [Probabilistic Methods for AI (CIS 410/510pm)](https://classes.cs.uoregon.edu/14S/cis410pm/)  
-- Winter 2014 — [Intermediate Data Structures (CIS 313)](https://classes.cs.uoregon.edu/14W/cis313/)
+## CS 610: Teaching Effectiveness / Welcome to Grad School
 
-### 2013
+Fall 2023. (2-credit seminar, co-taught.)
 
-- Spring 2013 — [Probabilistic Methods for AI (CIS 410/510pm)](https://classes.cs.uoregon.edu/13S/cis410pm/)  
-- Winter 2013 — [Machine Learning (CIS 472/572)](https://classes.cs.uoregon.edu/13W/cis472/)
+## CS 472/572: Machine Learning
 
-### 2012
+Winter 2020, Winter 2013, Winter 2015--2018.
 
-- Fall 2012 — [Artificial Intelligence (CIS 471/571)](https://classes.cs.uoregon.edu/12F/cis471/)  
-- Spring 2012 — [Probabilistic Methods for AI (CIS 610pm)](https://classes.cs.uoregon.edu/12S/cis610pm/)  
-- Winter 2012 — [Computer Science II (CIS 211)](https://classes.cs.uoregon.edu/12W/cis211/)
+## CS 399: Probability and Statistics for Computer Science
 
-### 2011
+Fall 2017.
 
-- Fall 2011 — [Advanced Data Structures (CIS 413/513)](https://classes.cs.uoregon.edu/11F/cis413/)  
-- Spring 2011 — [Computer Science II (CIS 211)](https://classes.cs.uoregon.edu/11S/cis211/)  
-- Winter 2011 — [Computer Science II (CIS 211)](https://classes.cs.uoregon.edu/11W/cis211/)
+## CS 471/571: Introduction to Artificial Intelligence
 
-### 2010
+Fall 2016, Fall 2012.
 
-- Fall 2010 — [Probabilistic Methods for AI (CIS 410/510pm)](https://classes.cs.uoregon.edu/10F/cis410pm/)  
-- Spring 2010 — [Advanced Data Structures (CIS 413/513)](https://classes.cs.uoregon.edu/10S/cis413/)  
-- Winter 2010 — [Probabilistic Methods for AI (CIS 410/510pm)](https://classes.cs.uoregon.edu/10W/cis410pm/)
+## CS 413/513: Advanced Data Structures
 
-For earlier materials or guest lectures, feel free to get in touch.
+Fall 2011, Spring 2010.
+
+## CS 211: Computer Science II
+
+Winter 2012, Spring 2011, Winter 2011.
+
+For current course offerings, see the [UO CS department](https://cs.uoregon.edu).

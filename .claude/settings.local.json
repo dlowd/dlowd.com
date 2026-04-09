@@ -1,7 +1,16 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "WebFetch(domain:issuu.com)",
+      "WebFetch(domain:www.themeofabsence.com)",
+      "WebFetch(domain:www.goalpublications.com)",
+      "WebFetch(domain:sofawolf.com)",
+      "WebFetch(domain:deepskyanchor.com)",
+      "WebFetch(domain:marylowd.com)",
+      "WebFetch(domain:www.amazon.com)",
+      "WebFetch(domain:cs.uoregon.edu)",
+      "WebFetch(domain:scds.uoregon.edu)"
     ]
   }
 }

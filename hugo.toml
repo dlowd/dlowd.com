@@ -55,6 +55,10 @@ canonifyURLs = false
   url = "/group/"
   weight = 30
 [[menu.main]]
+  name = "Teaching"
+  url = "/teaching/"
+  weight = 40
+[[menu.main]]
   name = "Misc"
   url = "/misc/"
   weight = 60
