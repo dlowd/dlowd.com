@@ -45,7 +45,7 @@ sections:
           - label: "DOI"
             url: "https://doi.org/10.1109/SATML64287.2025.00020"
       - title: "On the Practicality of Differential Privacy for Knowledge Tracing"
-        authors: "Anika Kabir, Chandan Tankala, Daniel Lowd"
+        authors: "Anika Kabir and Daniel Lowd"
         venue: "Proceedings of the 18th International Conference on Educational Data Mining, EDM 2025, Palermo, Italy, July 20-23, 2025"
         year: 2025
         links:
