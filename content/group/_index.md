@@ -7,12 +7,8 @@ aliases: ["group.html"]
 
 **Ph.D.**
 
-- Daniel Olds  
 - Anika Nahian Binte Kabir  
-
-**Undergrad**
-
-- John Heibel
+- Utkarsh Sahu  
 
 ## Alumni
 
