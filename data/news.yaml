@@ -1,30 +1,18 @@
 featured:
-  - title: "SaTML 2023: Certified Regression from Classification"
-    date: "2023-02-15"
-    summary: "New certified defenses reduce robust regression to classification, expanding guarantees against poisoning attacks."
+  - title: "November 2026: Eugene Round Table Talk"
+    date: "2026-11-10"
+    summary: "“What’s Up With Artificial Intelligence?” How we got from the first artificial neurons to today’s AI agents, and what it means for society."
     links:
-      - label: "Paper"
-        url: "/files/hammoudeh-satml23.pdf"
-  - title: "JMLR 2023: Influence Estimation for Tree Ensembles"
-    date: "2023-02-01"
-    summary: "Jonathan Brophy and Zayd Hammoudeh led a comprehensive evaluation of influence methods for gradient-boosted trees."
-    links:
-      - label: "Paper"
-        url: "/files/brophy-jmlr23.pdf"
-  - title: "NeurIPS 2022: Uncertainty for Gradient-Boosted Trees"
-    date: "2022-11-30"
-    summary: "Instance-based uncertainty estimates give calibrated confidence for tree ensemble predictions."
-    links:
-      - label: "Paper"
-        url: "/files/brophy-neurips22.pdf"
-  - title: "CCS 2022: Identifying Poisoning Targets"
-    date: "2022-10-15"
-    summary: "Renormalized influence estimation reveals the intended target of a data poisoning attack."
-    links:
-      - label: "Paper"
-        url: "/files/hammoudeh-ccs22.pdf"
+      - label: "Slides (PDF)"
+        url: "/files/ai-round-table-2026.pdf"
 
 items:
+  - title: "November 2026: Eugene Round Table Talk"
+    date: "2026-11-10"
+    summary: "“What’s Up With Artificial Intelligence?” How we got from the first artificial neurons to today’s AI agents, and what it means for society."
+    links:
+      - label: "Slides (PDF)"
+        url: "/files/ai-round-table-2026.pdf"
   - title: "SaTML 2023: Certified Regression from Classification"
     date: "2023-02-15"
     summary: "New certified defenses reduce robust regression to classification, expanding guarantees against poisoning attacks."
