@@ -33,14 +33,8 @@ canonifyURLs = false
   # homeInfoParams intentionally omitted to keep homepage content focused on hero layout
 
 [[params.socialIcons]]
-  name = "BlueSky"
+  name = "Bluesky"
   url = "https://bsky.app/profile/lowd.bsky.social"
-[[params.socialIcons]]
-  name = "Twitter"
-  url = "https://twitter.com/dlowd"
-[[params.socialIcons]]
-  name = "Mastodon"
-  url = "https://sigmoid.social/@lowd"
 
 [[menu.main]]
   name = "Research"
