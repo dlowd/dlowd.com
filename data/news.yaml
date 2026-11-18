@@ -46,11 +46,11 @@ items:
       - label: "Supplement"
         url: "/files/brophy-icml21-supp.pdf"
   - title: "April 2019: Sisters Science Club Talk"
-    date: "2019-04-10"
+    date: "2019-04-23"
     summary: "Community lecture on whether AI can combat alternative facts."
     links:
       - label: "Slides"
-        url: "/files/fake-news-ai-sisters-apr2019.pptx"
+        url: "/files/fake-news-ai-sisters-apr2019.pdf"
   - title: "July 2018: Adversarial Examples for Machine Translation"
     date: "2018-07-01"
     summary: "COLING 2018 paper highlighted by The Register and others."

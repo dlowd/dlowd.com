@@ -34,7 +34,7 @@ canonifyURLs = false
 
 [[params.socialIcons]]
   name = "Bluesky"
-  url = "https://bsky.app/profile/lowd.bsky.social"
+  url = "https://bsky.app/profile/dlowd.com"
 
 [[menu.main]]
   name = "Research"
