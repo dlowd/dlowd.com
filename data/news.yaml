@@ -5,6 +5,12 @@ featured:
     links:
       - label: "Slides (PDF)"
         url: "/files/ai-round-table-2026.pdf"
+  - title: "October 2026: Amicus Brief on AI Training and Fair Use"
+    date: "2026-10-30"
+    summary: "With Mike Knoop and Douglas C. Schmidt, I co-signed a computer scientists’ amicus brief supporting OpenAI in the OpenAI copyright litigation. It explains how language model training works, so the court’s fair-use ruling rests on accurate technical facts."
+    links:
+      - label: "Brief (PDF)"
+        url: "https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.2447.1.pdf"
 
 items:
   - title: "November 2026: Eugene Round Table Talk"
@@ -13,6 +19,12 @@ items:
     links:
       - label: "Slides (PDF)"
         url: "/files/ai-round-table-2026.pdf"
+  - title: "October 2026: Amicus Brief on AI Training and Fair Use"
+    date: "2026-10-30"
+    summary: "With Mike Knoop and Douglas C. Schmidt, I co-signed a computer scientists’ amicus brief supporting OpenAI in the OpenAI copyright litigation. It explains how language model training works, so the court’s fair-use ruling rests on accurate technical facts."
+    links:
+      - label: "Brief (PDF)"
+        url: "https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.2447.1.pdf"
   - title: "SaTML 2023: Certified Regression from Classification"
     date: "2023-02-15"
     summary: "New certified defenses reduce robust regression to classification, expanding guarantees against poisoning attacks."
